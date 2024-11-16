@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BurpenPS</string>
+    <string name="passgen_button">Click to generate Password</string>
+    <string name="copy_button">Copy to clipboard</string>
+</resources>

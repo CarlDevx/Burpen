@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BurpenPS</string>
+    <string name="passgen_button">Clique para gerar uma senha</string>
+    <string name="copy_button">Copiar para a área de transferência</string>
+</resources>
